@@ -1,0 +1,7 @@
+D:\Projects\PZ21\bin\Debug\PZ21.exe.config
+D:\Projects\PZ21\bin\Debug\PZ21.exe
+D:\Projects\PZ21\bin\Debug\PZ21.pdb
+D:\Projects\PZ21\obj\Debug\PZ21.csproj.AssemblyReference.cache
+D:\Projects\PZ21\obj\Debug\PZ21.csproj.CoreCompileInputs.cache
+D:\Projects\PZ21\obj\Debug\PZ21.exe
+D:\Projects\PZ21\obj\Debug\PZ21.pdb
